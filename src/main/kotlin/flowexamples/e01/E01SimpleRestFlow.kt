@@ -15,6 +15,7 @@ object E01SimpleRestFlow {
         id = "simple-rest-api"
         revision = "latest"
     }
+    
 
     val simpleRestSpec = flowConfig {
         id = "simple-rest"
